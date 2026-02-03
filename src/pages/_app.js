@@ -4,7 +4,7 @@ import Head from "next/head";
 import { useRouter } from "next/router";
 
 const SITE_NAME = "Eathen Web";
-const SITE_URL = "https://YOURDOMAIN.com"; // <-- change this
+const SITE_URL = "https://eathen.net"; // <-- change this
 const DEFAULT_TITLE = "Eathen Web — Websites for Small Businesses";
 const DEFAULT_DESCRIPTION =
   "I build clean, fast websites for small businesses that turn visitors into calls and customers.";

@@ -1,0 +1,5 @@
+cd /var/www/eathen.net
+git pull
+npm install
+npm run build
+pm2 restart eathen-net

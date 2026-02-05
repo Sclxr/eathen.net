@@ -13,6 +13,12 @@ export default function Document() {
         <meta name="theme-color" content="#0f1419" />
         <meta name="color-scheme" content="dark light" />
 
+        {/* Plausible Analytics */}
+        <script
+          async
+          src="https://plausible.io/js/pa-msno9MAnoCwK5P41Ff9l5.js"
+        />
+
         {/* If you have a manifest, uncomment */}
         {/* <link rel="manifest" href="/site.webmanifest" /> */}
       </Head>

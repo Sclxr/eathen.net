@@ -3,3 +3,8 @@ git pull
 npm install
 npm run build
 pm2 restart eathen-net
+
+git status
+git add . 
+git commit -m "Update deployed site"
+git push origin main
